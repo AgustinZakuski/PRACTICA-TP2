@@ -1,0 +1,6 @@
+node_modules/
+.env
+# Este lo incluyo, no por que se pida,
+# más bien poque me suele dar problemas
+# con los commits y pushs 👇👇👇
+.vscode/
